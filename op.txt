@@ -1,0 +1,5 @@
+1.project problem statement
+2.data gathering 
+3.EDA
+4.feature engineering
+5.feature selection
